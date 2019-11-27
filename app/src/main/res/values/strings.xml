@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="hint_l1">账号名</string>
+    <string name="hint_l2">电话号码</string>
+    <string name="hint_pwd">密码</string>
+    <string name="title">登录</string>
+    <string name="email">邮箱地址</string>
+</resources>
